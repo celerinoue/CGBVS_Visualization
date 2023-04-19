@@ -1,5 +1,5 @@
 *
-!/docker/
-!/docs/
-!/script/
-!/setting/
+!/docker/*
+!/docs/*
+!/script/*
+!/setting/*
