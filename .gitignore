@@ -3,3 +3,12 @@
 !/docs/*
 !/script/*
 !/setting/*
+
+
+
+
+## file 
+!*.py
+!*.sh
+!*.md
+!Dockerfile
